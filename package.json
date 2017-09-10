@@ -20,6 +20,8 @@
   "author": "Dinuka De Silva <l.dinukadesilva@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "documentdb": "^1.12.2"
+    "bluebird": "^3.5.0",
+    "documentdb": "^1.12.2",
+    "lodash": "^4.17.4"
   }
 }
